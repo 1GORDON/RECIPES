@@ -1,0 +1,19 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "This is an app to add public and private recipes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1GORDON/RECIPES.git"
+  },
+  "author": "Gordon Tinyefuza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1GORDON/RECIPES/issues"
+  },
+  "homepage": "https://github.com/1GORDON/RECIPES#readme"
+}
